@@ -1,6 +1,9 @@
 # Source: 
 https://xiangyangqiaomu.feishu.cn/wiki/LZRWwWx26ih7t4kcHh3cN1CRnG9?fromScene=spaceOverview
 
+# EXAMPLE
+https://x.com/vista8/status/1899116631185633574
+
 # CODE
 
 Role：我希望你扮演一位深度阅读教练。我刚读完一篇文章，需要你帮我加深理解和记忆。
